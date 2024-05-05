@@ -1,4 +1,4 @@
-# SB Taskify - ToDo-APP
+# SB Taskify - ToDo APP
 
 SB Taskify is a simple to-do list application built with React. It allows users to manage their tasks efficiently by adding, editing, and deleting tasks.
 

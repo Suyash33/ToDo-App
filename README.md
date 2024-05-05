@@ -1,8 +1,17 @@
-# React + Vite
+# SB Taskify - ToDo-APP
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+SB Taskify is a simple to-do list application built with React. It allows users to manage their tasks efficiently by adding, editing, and deleting tasks.
 
-Currently, two official plugins are available:
+## Features
+- Add new tasks
+- Edit existing tasks
+- Delete tasks
+- Mark tasks as completed
+- Persist tasks using local storage
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Technologies Used
+- React
+- React Icons
+- UUID (for generating unique IDs)
+- Tailwind CSS
+
